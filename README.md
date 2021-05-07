@@ -1,3 +1,11 @@
+This is the admin app for the project "Flipkart-Ecommerce Clone", Which is use to add categories, products, pages and track/update the order shipment. To do this all operations You must need to be "Super-Admin" and also to add only your products in their related categories you must need to be "Admin" there.
+This app is deployed on Heroku and url is "https://flipkart-clone-admin.herokuapp.com/"
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
